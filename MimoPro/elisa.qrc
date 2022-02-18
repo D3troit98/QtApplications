@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/mama">
+        <file>resource/computer-version-banner.jpg</file>
+        <file>resource/mov.gif</file>
+    </qresource>
+</RCC>
